@@ -8,12 +8,16 @@ const {
 
 // Website Api (jgn di ganti tomlol)
 global.APIs = {
-   alfa: 'https://api.zeeoneofc.my.id', //apabila link api eror, segera laporkan ke owner
+   alfa: 'https://api.zeeoneofc.xyz',
+
+   agat: 'https://apimirip-1.agatdwi.repl.co',//apabila link api eror, segera laporkan ke owner
 }
 
 // Free apikey (Apikey expired silahkan login terus ganti V12 dgn apikey lu)
 global.APIKeys = {
-   'https://api.zeeoneofc.my.id': 'V12', // 👉 login https://api.zeeoneofc.xyz to get apikey
+   'https://api.zeeoneofc.xyz': 'xbA658lP',
+
+   'https://apimirip-1.agatdwi.repl.co': 'Agat', // 👉 login https://api.zeeoneofc.xyz to get apikey
 }
 
 // setting 
